@@ -1,8 +1,9 @@
 [
     {
         "id": "90d473a7-b814-4196-8500-8eab908bfc06",
-        "type": "Ring in the New Year Challenge",
-        "description": "Begin 2025 op een goede manier. Verdien deze medaille door alle drie je ringen zeven dagen op een rij te sluiten in januari.",
+        "type": "ringInTheNewYear",
+        "title": "Nieuwjaarsuitdaging",
+        "description": "Begin 2025 op een goede manier. Sluit alle drie je ringen zeven dagen op een rij in januari.",
         "isSingleDay": false,
         "startDate": "2025-01-07",
         "endDate": "2025-01-31",
@@ -13,7 +14,8 @@
     },
     {
         "id": "23e6ba0c-8b58-45e5-a5aa-14721789236d",
-        "type": "Veterans Day Challenge",
+        "type": "veteransDay",
+        "title": "Veterans Day Challenge",
         "description": "Earn this award on November 11 by doing any workout for 11 minutes or more. Record your time with the Workout app or any app that adds workouts to Health.",
         "isSingleDay": true,
         "startDate": "2024-11-11",
@@ -26,7 +28,8 @@
     },
     {
         "id": "ea2348bc-b2b9-4d9b-85b3-7962c1aabe11",
-        "type": "Mental Health Day Challenge",
+        "type": "mentalHealthDay",
+        "title": "Mental Health Day Challenge",
         "description": "Let’s bring awareness to all the ways we can take care of our mental health. On October 10, record 10 mindful minutes with any app that adds to Health to get this award.",
         "isSingleDay": true,
         "startDate": "2024-10-10",
@@ -38,7 +41,8 @@
     },
     {
         "id": "c73b3875-c705-4fe4-abd7-035ab0b5d9a2",
-        "type": "National Parks Challenge",
+        "type": "nationalParks",
+        "title": "National Parks Challenge",
         "description": "On August 25, let’s celebrate national parks around the world. Earn this award by recording any workout of 20 minutes or more with any app that adds workouts to Health.",
         "isSingleDay": true,
         "startDate": "2024-08-25",
@@ -50,7 +54,8 @@
     },
     {
         "id": "b74c8ade-8c31-4d7c-bc1d-f17c8e406bf3",
-        "type": "National Fitness Day Challenge",
+        "type": "fitnessDay",
+        "title": "National Fitness Day Challenge",
         "description": "Get active for National Fitness Day! On August 8, earn this award by doing any workout for at least 20 minutes. Record your time in the Workout app or any app that adds workouts to Health.",
         "isSingleDay": true,
         "startDate": "2024-08-08",
@@ -63,7 +68,8 @@
     },
     {
         "id": "f41af411-780b-4a71-be4b-79f70f53757a",
-        "type": "Yoga Day Challenge",
+        "type": "yogaDay",
+        "title": "Yoga Day Challenge",
         "description": "Find your flow on International Day of Yoga. On June 21, do a yoga workout of 10 minutes or more and you’ll earn this award. Record it with the Workout app or any app that adds workouts to Health.",
         "isSingleDay": true,
         "startDate": "2024-06-21",
@@ -76,7 +82,8 @@
     },
     {
         "id": "29ceeea4-e4c9-4a7e-860b-a51b0c2082bd",
-        "type": "Running Day Challenge",
+        "type": "runningDay",
+        "title": "Running Day Challenge",
         "description": "Hit the road, trail, track, or tread for Global Running Day! Record a running workout and go at least 5 km on June 5 to earn this special badge.",
         "isSingleDay": true,
         "startDate": "2024-06-05",
@@ -89,7 +96,8 @@
     },
     {
         "id": "7516ff66-0f8b-462a-a880-8fab3ac35c79",
-        "type": "World Meditation Day Challenge",
+        "type": "worldMeditationDay",
+        "title": "World Meditation Day Challenge",
         "description": "Let’s celebrate World Meditation Day! On May 21, record 5 mindful minutes or more with the Mindfulness app or any app that adds mindful minutes to Health to earn this special badge.",
         "isSingleDay": true,
         "startDate": "2024-05-21",
@@ -101,7 +109,8 @@
     },
     {
         "id": "a0b499bc-bdb5-439f-bb9a-cb93e789c22e",
-        "type": "International Dance Day Challenge",
+        "type": "internationalDanceDay",
+        "title": "International Dance Day Challenge",
         "description": "Earn this award by recording a Dance workout of 20 minutes or more on International Dance Day, April 29. Record it with the Workout app or any app that adds workouts to Health.",
         "isSingleDay": true,
         "startDate": "2024-04-29",
@@ -114,7 +123,8 @@
     },
     {
         "id": "0dc09ad8-3b8d-4b01-8e53-e8c5f81c6377",
-        "type": "Earth Day Challenge",
+        "type": "earthDay",
+        "title": "Earth Day Challenge",
         "description": "Let’s get moving for the planet. On April 22, do any workout for 30 minutes or more to earn this award. Record it with the Workout app or any app that adds to Health.",
         "isSingleDay": true,
         "startDate": "2024-04-22",
@@ -126,7 +136,8 @@
     },
     {
         "id": "f1e2d3c4-b5a6-7890-1234-56789abcdef1",
-        "type": "Heart Month Challenge",
+        "type": "heartMonth",
+        "title": "Heart Month Challenge",
         "description": "This Valentine’s day, it’s all about heart. Close your Exercise ring on February 14 to get this award.",
         "isSingleDay": true,
         "startDate": "2024-02-14",
@@ -137,7 +148,8 @@
     },
     {
         "id": "a1b2c3d4-e5f6-7890-1234-56789abcdef0",
-        "type": "Ring in the New Year Challenge",
+        "type": "ringInTheNewYear",
+        "title": "Ring in the New Year Challenge",
         "description": "Let’s go for it in 2024. Earn this award by closing all three rings for seven days in a row in January.",
         "isSingleDay": false,
         "startDate": "2024-01-01",
